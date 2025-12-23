@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ATELIER",
+  "base_artist": "大沼パセリ",
+  "createdAt": "2025-12-23T17:01:57.279542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At Atelier",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/01_At_Atelier_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "Sweeping Promises",
+      "has_synced": false,
+      "path": "select/02_Atelier_Sweeping_Promises.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "MoTrip feat. Ali As & Macloud",
+      "has_synced": false,
+      "path": "select/03_Atelier_MoTrip_feat._Ali_As_&_Macloud.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "MoTrip feat. Macloud",
+      "has_synced": false,
+      "path": "select/04_Atelier_MoTrip_feat._Macloud.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Main Street ni Ikou (Hall Tour 2017 Hikari no Atelier)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_Main_Street_ni_Ikou_(Hall_Tour_2017_Hikari_no_Atelier)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Piano Man (Hall Tour 2017 Hikari no Atelier)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_Piano_Man_(Hall_Tour_2017_Hikari_no_Atelier)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tobe (Hall Tour 2017 Hikari no Atelier)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/07_Tobe_(Hall_Tour_2017_Hikari_no_Atelier)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "Dcvdns",
+      "has_synced": true,
+      "path": "select/08_Atelier_Dcvdns.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "JUSTHIS",
+      "has_synced": true,
+      "path": "select/09_Atelier_JUSTHIS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "Supaspicybois",
+      "has_synced": true,
+      "path": "select/10_Atelier_Supaspicybois.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "MoTrip & Ali As feat. Macloud",
+      "has_synced": false,
+      "path": "select/11_Atelier_MoTrip_&_Ali_As_feat._Macloud.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "MoTrip",
+      "has_synced": false,
+      "path": "select/12_Atelier_MoTrip.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Atelier",
+      "artist": "MoTrip & As, Ali feat. Macloud",
+      "has_synced": false,
+      "path": "select/13_Atelier_MoTrip_&_As,_Ali_feat._Macloud.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ateliér duše",
+      "artist": "Marika Gombitová",
+      "has_synced": false,
+      "path": "select/14_Ateliér_duše_Marika_Gombitová.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ATELIER",
+      "artist": "大沼パセリ",
+      "has_synced": true,
+      "path": "select/15_ATELIER_大沼パセリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ATELIER",
+      "artist": "大沼パセリ",
+      "has_synced": false,
+      "path": "select/pl_01_ATELIER_大沼パセリ.txt"
+    }
+  ]
+}
